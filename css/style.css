@@ -16,7 +16,7 @@ body {
   text-align: left;
   background-color: #fff;
   line-height: 1.5;
-  padding-top: 20px;
+  /* padding-top: 20px; */
 }
 
 *,
@@ -114,9 +114,9 @@ a:hover {
   padding: 10px;
 }
 
-section {
+/* section {
   margin-bottom: 20px;
-}
+} */
 
 /* Navbar styling */
 .navbar {
