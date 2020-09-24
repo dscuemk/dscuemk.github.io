@@ -590,6 +590,16 @@ ul {
   position: fixed;
   width: 100%;
   background-color: #fff;
+  -webkit-box-shadow: 0 8px 6px -6px #999;
+  -moz-box-shadow: 0 8px 6px -6px #999;
+  box-shadow: 0 8px 6px -6px #999;
+  border-radius: 0.8rem;
+}
+
+@media screen and (max-width: 900px) {
+  .navbar-menu {
+    padding-bottom: 1.2rem;
+  }
 }
 
 #overview {
