@@ -586,7 +586,7 @@ ul {
   font-weight: 400;
 }
 
-header {
+.nav-header {
   position: fixed;
   width: 100%;
   background-color: #fff;
