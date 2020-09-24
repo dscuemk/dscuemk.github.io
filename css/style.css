@@ -24,6 +24,7 @@ body {
 ::before {
   box-sizing: border-box;
   scroll-behavior: smooth;
+  -webkit-tap-highlight-color: transparent;
 }
 
 h1,
