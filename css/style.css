@@ -57,6 +57,12 @@ p {
   float: left;
 }
 
+.center-items{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 .pull-right {
   float: right;
 }
@@ -490,6 +496,10 @@ a.btn-rounded:hover {
   .section-spacer {
     padding: 80px 0;
   }
+
+  .cols1{
+    flex-direction: column-reverse;
+  }
 }
 
 .logo-sm {
@@ -606,3 +616,4 @@ ul {
 #overview {
   padding-top: 5rem;
 }
+
